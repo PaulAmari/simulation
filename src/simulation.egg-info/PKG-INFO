@@ -1,0 +1,23 @@
+Metadata-Version: 2.1
+Name: simulation
+Version: 0.1.dev1
+Summary: Generate Netlist for spice simulation.
+Home-page: UNKNOWN
+Author: Paul Amari
+Author-email: amari.paul@protonmail.com
+License: MIT
+Keywords: electrical simulation,spice
+Platform: UNKNOWN
+Classifier: Intended Audience :: Science/Research
+Classifier: Natural Language :: English
+Classifier: Programming Language :: Python :: 3
+Classifier: Development Status :: 1 - Planning
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.8.5
+Description-Content-Type: text/markdown
+License-File: LICENSE.txt
+
+# simulation package
+
+This is a simple example package for learning purpose.
+

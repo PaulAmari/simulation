@@ -1,0 +1,12 @@
+LICENSE.txt
+README.md
+pyproject.toml
+setup.cfg
+src/simulation/__init__.py
+src/simulation/spice.py
+src/simulation.egg-info/PKG-INFO
+src/simulation.egg-info/SOURCES.txt
+src/simulation.egg-info/dependency_links.txt
+src/simulation.egg-info/top_level.txt
+src/simulation/test/__init__.py
+src/simulation/test/test.py
